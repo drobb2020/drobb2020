@@ -15,15 +15,6 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: Dave
 - ⚡ Fun fact: I have a two year old West Highland White Terrier, her name is Abigail, and she keeps me busy.
 
-## Connect with me
-
-__You can find me on the following social media sites:__
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="David Robb on Facebook" style="float: left; margin-right: 20px; width: 25px" />][facebook]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="float: left; margin-right: 20px; width: 25px" />][linkedin]
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="float: left; width: 25px"/>][twitter]
-
 <br />
 
 ### Languages (Proficient and Learning)
