@@ -6,6 +6,8 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my personal profile website & development website
+- 🐶 I have created a portfolio website for my dog Abigail: [Abigail's Portfolio](https://abigailportfolio.netlify.app)
+- 😀You can check out my portfolio website here: [David's Portfolio](https://davidrobb2021.tech/)
 - 🌱 I’m currently learning JavaScript and React
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -58,8 +60,9 @@ Here are some ideas to get you started: -->
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=drobb2020&show_icons=true&hide_border=true" align="left" alt="David's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drobb2020" align="left" alt="David's languages"/>
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=drobb2020)](https://github.com/drobb2020/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drobb2020&exclude_repo=github-readme-stats,drobb2020.github.io)](https://github.com/drobb2020/github-readme-stats)
 
 [facebook]: https://www.facebook.com/david.robb.2012
 [linkedin]: https://www.linkedin.com/in/david-robb-42436a20/
