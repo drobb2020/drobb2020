@@ -47,8 +47,7 @@
 
 <img align="left" alt="Git" width="40px" src="./img/git.svg" />
 <img align="left" alt="GitHub" width="40px" src="./img/github.svg" />
-<img align="left" alt="Subversion" width="40px" src="./img/subversion.svg" /><br>
-
+<img align="left" alt="Subversion" width="40px" src="./img/subversion.svg" /><br><br>
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=drobb2020)](https://github.com/drobb2020/github-readme-stats)
 
