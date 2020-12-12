@@ -1,25 +1,17 @@
-### Hi there, I'm David Robb 👋
+# Hi there, I'm David Robb 👋
 
 <!--
-**drobb2020/drobb2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** drobb2020/drobb2020 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on my personal profile website & development website
+- 🔭 I’m currently working on my development website
 - 🐶 I have created a portfolio website for my dog Abigail: [Abigail's Portfolio](https://abigailportfolio.netlify.app)
 - 😀You can check out my portfolio website here: [David's Portfolio](https://davidrobb2021.tech/)
 - 🌱 I’m currently learning JavaScript and React
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: drobb2011@gmail.com -->
 - 💬 Ask me about Micro Focus Software (I work for Micro Focus Software (Canada) Inc.)
-- 😄 Pronouns: Dave
-- ⚡ Fun fact: I have a two year old West Highland White Terrier, her name is Abigail, and she keeps me busy.
+- 😄 Call me Dave
+- ⚡ Fun fact: I have a two year old West Highland White Terrier, her name is Abigail, and she keeps me busy.\
 
-<br />
-
-### Languages (Proficient and Learning)
+## Languages (Proficient and Learning)
 
 <img align="left" alt="bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Python" width=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -31,9 +23,7 @@ Here are some ideas to get you started: -->
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="json" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 
-<br />
-
-### Coding Tools
+## Coding Tools
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="40px" src="./img/atom.svg" />
 <img align="left" alt="Sublime Text" width="40px" src="./img/sublimetext.svg" />
@@ -42,7 +32,7 @@ Here are some ideas to get you started: -->
 
 <br />
 
-### Databases
+## Databases
 
 <img align="left" alt="MariaDB" width="40px" src="./img/mariadb.svg" />
 <img align="left" alt="MongoDB" width="40px" src="./img/mongodb.svg" />
@@ -50,9 +40,7 @@ Here are some ideas to get you started: -->
 <img align="left" alt="mySQL" width="40px" src="./img/mysql.svg" />
 <img align="left" alt="Postgres" width="40px" src="./img/postgresql.svg" />
 
-<br />
-
-### Version Control
+## Version Control
 
 <img align="left" alt="Git" width="40px" src="./img/git.svg" />
 <img align="left" alt="GitHub" width="40px" src="./img/github.svg" />
