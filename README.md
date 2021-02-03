@@ -1,8 +1,8 @@
-# Hi there, I'm David Robb 👋
-
+<img align="left" alt="DRobb Banner" width="1584px" src="./img/drobb_banner.png" />
 <!--
 ** drobb2020/drobb2020 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+- 👋 Hi Everyone!
 - 🔭 I’m currently working on my development website
 - 🐶 I have created a portfolio website for my dog Abigail: [Abigail's Portfolio](https://abigailportfolio.netlify.app)
 - 😀You can check out my portfolio website here: [David's Portfolio](https://davidrobb2021.tech/)
