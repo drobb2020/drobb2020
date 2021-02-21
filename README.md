@@ -11,7 +11,6 @@
 - 😄 Call me Dave
 - ⚡ Fun fact: I have a two year old West Highland White Terrier, her name is Abigail, and she keeps me busy.
 
-
 ## Languages (Proficient and Learning)
 
 <img align="left" alt="bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
@@ -24,30 +23,28 @@
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="json" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /><br>
 
-
 ## Coding Tools
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Atom" width="40px" src="./img/atom.svg" />
-<img align="left" alt="Sublime Text" width="40px" src="./img/sublimetext.svg" />
-<img align="left" alt="Notepad++" width="40px" src="./img/notepadplusplus.svg" />
-<img align="left" alt="Vim" width="40px" src="./img/vim.svg" /><br>
+<img align="left" alt="Atom" width="40px" src="./img/atom.png" />
+<img align="left" alt="Sublime Text" width="40px" src="./img/sublimetext.png" />
+<img align="left" alt="Notepad++" width="40px" src="./img/notepadplusplus.png" />
+<img align="left" alt="Vim" width="40px" src="./img/vim.png" /><br>
 
 
 ## Databases
 
-<img align="left" alt="MariaDB" width="40px" src="./img/mariadb.svg" />
-<img align="left" alt="MongoDB" width="40px" src="./img/mongodb.svg" />
-<img align="left" alt="Microsoft SQL Server" width="40px" src="./img/microsoftsqlserver.svg" />
-<img align="left" alt="mySQL" width="40px" src="./img/mysql.svg" />
-<img align="left" alt="Postgres" width="40px" src="./img/postgresql.svg" /><br>
-
+<img align="left" alt="MariaDB" width="40px" src="./img/mariadb.png" />
+<img align="left" alt="MongoDB" width="40px" src="./img/mongodb.png" />
+<img align="left" alt="Microsoft SQL Server" width="40px" src="./img/microsoft-sql-server.png" />
+<img align="left" alt="mySQL" width="40px" src="./img/mysql.png" />
+<img align="left" alt="Postgres" width="40px" src="./img/postgresql.png" /><br>
 
 ## Version Control
 
-<img align="left" alt="Git" width="40px" src="./img/git.svg" />
-<img align="left" alt="GitHub" width="40px" src="./img/github.svg" />
-<img align="left" alt="Subversion" width="40px" src="./img/subversion.svg" /><br><br>
+<img align="left" alt="Git" width="40px" src="./img/git.png" />
+<img align="left" alt="GitHub" width="40px" src="./img/github.png" />
+<img align="left" alt="Subversion" width="40px" src="./img/subversion.png" /><br><br>
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=drobb2020)](https://github.com/drobb2020/github-readme-stats)
 
