@@ -1,15 +1,15 @@
-<img align="left" alt="DRobb Banner" width="1584px" src="./img/drobb_banner.png" />
+<img align="left" alt="DRobb Banner" width="1584px" src="./img/drobb_banner2.png" />
 <!--
 ** drobb2020/drobb2020 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 👋 Hi Everyone!
-- 🔭 I’m currently working on my development website
+- 🔭 I’m currently working on my development website.
+- ⚡ Fun fact: I have a two 1/2 year old West Highland White Terrier, her name is Abigail, and she keeps me busy.
 - 🐶 I have created a portfolio website for my dog Abigail: [Abigail's Portfolio](https://abigailportfolio.netlify.app)
 - 😀You can check out my portfolio website here: [David's Portfolio](https://davidrobb2021.tech/)
 - 🌱 I’m currently learning JavaScript and React
 - 💬 Ask me about Micro Focus Software (I work for Micro Focus Software (Canada) Inc.)
 - 😄 Call me Dave
-- ⚡ Fun fact: I have a two year old West Highland White Terrier, her name is Abigail, and she keeps me busy.
 
 ## Languages (Proficient and Learning)
 
