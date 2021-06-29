@@ -23,7 +23,7 @@
 <img align="left" alt="JavaScript" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" title="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" title="React 17.x" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="json" title="JavaScript Object Notation" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /><br>
+<img align="left" alt="json" title="JavaScript Object Notation" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /><br /><br /><hr />
 
 ## Coding Tools
 
@@ -31,7 +31,7 @@
 <img align="left" alt="Atom" title="Atom" width="60px" src="./img/atom.png" />
 <img align="left" alt="Sublime Text" title="Sublime Text" width="60px" src="./img/sublimetext.png" />
 <img align="left" alt="Notepad++" title="Notepad++" width="60px" src="./img/notepadplusplus.png" />
-<img align="left" alt="Vim" title="VIM on Linux" width="60px" src="./img/vim.png" />
+<img align="left" alt="Vim" title="VIM on Linux" width="60px" src="./img/vim.png" /><br /><br /><hr />
 
 ## Databases
 
@@ -45,7 +45,7 @@
 
 <img align="left" alt="Postgres" title="PostgreSQL" width="60px" src="./img/postgresql.png" />
 
-<img align="left" alt="CockroachDB" title="CockroachDB" width="60px" src="./img/cockroachdb.png" />
+<img align="left" alt="CockroachDB" title="CockroachDB" width="60px" src="./img/cockroachdb.png" /><br /><br /><hr />
 
 ## Version Control
 
