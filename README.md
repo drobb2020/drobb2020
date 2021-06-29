@@ -37,7 +37,7 @@
 
 <img align="left" alt="MariaDB" title="MariaDB" width="60px" src="./img/mariadb.png" />
 
-<img align="left" alt="MongoDB" width="60px" src="./img/mongodb.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="60px" src="./img/mongodb.png" />
 
 <img align="left" alt="Microsoft SQL Server" title="MS SQL Server" width="60px" src="./img/microsoft-sql-server.png" />
 
@@ -52,7 +52,7 @@
 <img align="left" alt="Git" title="Git" width="60px" src="./img/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="60px" src="./img/github.png" />
 
-<img align="left" alt="Subversion" title="Subversion" width="60px" src="./img/subversion.png" /><br /><br />
+<img align="left" alt="Subversion" title="Subversion" width="60px" src="./img/subversion.png" /><br /><br /><hr />
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=drobb2020)](https://github.com/drobb2020/github-readme-stats)
 
