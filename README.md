@@ -53,7 +53,7 @@
 - [My Notion CMS App][web9]
 - [MDB Fancy SVG Shapes Demo App][web10]
 - [Tasteless Dad Jokes][web11]
-- [Excession Development App][web12]
+- [Excession Development Landing Page][web12]
 
 ## Languages (Proficient and Learning)
 
