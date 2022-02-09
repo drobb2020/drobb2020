@@ -1,10 +1,12 @@
 {
   "cSpell.words": [
-    "Postgres",
+    "cockroachdb",
     "drobb",
+    "HTMX",
     "mariadb",
     "microsoftsqlserver",
     "notepadplusplus",
+    "Postgres",
     "postgresql",
     "sublimetext"
   ]

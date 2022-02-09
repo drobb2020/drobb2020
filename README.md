@@ -1,15 +1,42 @@
-<img align="left" alt="DRobb Banner" width="1584px" src="./img/drobb_banner.png" />
+# David Robb on Github
+
+<!-- <img align="left" alt="DRobb Banner" width="1584px" src="./img/drobb_banner.png" /> -->
 <!--
 ** drobb2020/drobb2020 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+- [David Robb on Github](#david-robb-on-github)
+  - [About me](#about-me)
+  - [Languages (Proficient and Learning)](#languages-proficient-and-learning)
+  - [Coding Tools](#coding-tools)
+  - [Databases](#databases)
+  - [Version Control](#version-control)
+  - [My stats](#my-stats)
+
+---
+
+![Banner](./img/drobb_banner.png)
+
+## About me
+
 - 👋 Hi Everyone!
-- 🔭 I’m currently working on my development website.
-- ⚡ Fun fact: I have a three year old West Highland White Terrier, her name is Abigail, and she keeps me busy.
-- 🐶 I have created a portfolio website for her: [Abigail's Portfolio](https://abigailportfolio.netlify.app)
-- 😀You can check out my portfolio website here: [David's Portfolio](https://davidrobb2021.tech/)
-- 🌱 I’m currently learning JavaScript and React
-- 💬 Ask me about Micro Focus Software (I work for Micro Focus Software (Canada) Inc.)
+- 🔭 I’m currently working on a Projects portfolio website as well as a blog site.
+- ⚡ Fun facts:
+  - I have a three year old West Highland White Terrier
+  - her name is Abigail, and she keeps me busy.
+  - 🐶 I have created a portfolio/blog website for her using sanity.io
+  - You can check it out here [➡️](https://abigailportfolio.netlify.app)
+- 😀 You can check out my portfolio website here [➡️][portfolio]
+- 🌱 I’m currently learning:
+  - JavaScript
+  - React
+  - Becoming better with Python
+  - Improving my Flask skills
+  - Working with Django
+  - I have started to learn HTMX
+- 💬 Ask me about Micro Focus Software (I work for Micro Focus Software
 - 😄 Call me Dave
+
+---
 
 ## Languages (Proficient and Learning)
 
@@ -28,6 +55,8 @@
 ## Coding Tools
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Anaconda" title="Anaconda" width="60px" src="./img/anaconda.png" />
+<img align="left" alt="PyCharm" title="PyCharm" width="60px" src="./img/PyCharm.png" />
 <img align="left" alt="Atom" title="Atom" width="60px" src="./img/atom.png" />
 <img align="left" alt="Sublime Text" title="Sublime Text" width="60px" src="./img/sublimetext.png" />
 <img align="left" alt="Notepad++" title="Notepad++" width="60px" src="./img/notepadplusplus.png" />
@@ -52,12 +81,20 @@
 <img align="left" alt="Git" title="Git" width="60px" src="./img/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="60px" src="./img/github.png" />
 
-<img align="left" alt="Subversion" title="Subversion" width="60px" src="./img/subversion.png" /><br /><br /><hr />
+<img align="left" alt="Subversion" title="Subversion" width="60px" src="./img/subversion.png" />
+<br /><br />
+
+---
+
+## My stats
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=drobb2020)](https://github.com/drobb2020/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drobb2020&exclude_repo=github-readme-stats,drobb2020.github.io)](https://github.com/drobb2020/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drobb2020&exclude_repo=github-readme-stats,drobb2020.github.io)](https://github.com/drobb2020/github-readme-stats) -->
+
+<!-- Common Links -->
 
 [facebook]: https://www.facebook.com/david.robb.2012
 [linkedin]: https://www.linkedin.com/in/david-robb-42436a20/
 [twitter]: https://twitter.com/DavidRobb2
+[portfolio]: https://davidrobb2021.tech "David Robb portfolio"
