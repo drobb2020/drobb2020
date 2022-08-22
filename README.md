@@ -54,6 +54,11 @@
 - [MDB Fancy SVG Shapes Demo App][web10]
 - [Tasteless Dad Jokes][web11]
 - [Excession Development Landing Page][web12]
+- Frontend Mentor Challenges
+  - [Four Card Feature Section][web13]
+  - [Base Apparel Coming Soon Page][web14]
+  - [Intro Component with Signup Form][web15]
+  - [QR Code Component][web16]
 
 ## Languages (Proficient and Learning)
 
@@ -131,3 +136,7 @@
 [web10]: https://davidrobb-fancy_svg_shapes.mdbgo.io/ "MDB SVG Tutorial"
 [web11]: https://vibrant-yalow-39f59a.netlify.app/ "Tasteless Dad Jokes"
 [web12]: http://oneexcessionlab.tech/ "My development website"
+[web13]: https://superlative-hummingbird-4d3dac.netlify.app/ "Frontend Mentor Challenge"
+[web14]: https://magenta-unicorn-ba6e6a.netlify.app/ "Frontend Mentor Challenge"
+[web15]: https://teal-begonia-502d6b.netlify.app/ "Frontend Mentor Challenge"
+[web16]: https://comforting-cat-e32074.netlify.app/ "Frontend Mentor Challenge"
