@@ -8,6 +8,8 @@
 - [David Robb on Github](#david-robb-on-github)
   - [About me](#about-me)
   - [My Online Websites](#my-online-websites)
+    - [MDB React Tutorials](#mdb-react-tutorials)
+    - [Frontend Mentor Challenges](#frontend-mentor-challenges)
   - [Languages (Proficient and Learning)](#languages-proficient-and-learning)
   - [Coding Tools](#coding-tools)
   - [Databases](#databases)
@@ -45,27 +47,33 @@
 - [My Portfolio][portfolio]
 - [Abigail's portfolio][web1]
 - [Flask Blog Tutorial][web2]
-- [MDB React Blog Tutorial][web3]
-- [MDB React Tutorial][web4]
 - [Code with Mosh Tutorial][web5]
 - [Next.js Demo App][web7]
 - [My Weather App][web8]
 - [My Notion CMS App][web9]
-- [MDB Fancy SVG Shapes Demo App][web10]
 - [Tasteless Dad Jokes][web11]
 - [Excession Development Landing Page][web12]
-- Frontend Mentor Challenges
-  - [Four Card Feature Section][web13]
-  - [Base Apparel Coming Soon Page][web14]
-  - [Intro Component with Signup Form][web15]
-  - [QR Code Component][web16]
+
+### MDB React Tutorials
+
+- [MDB React Blog Tutorial][web3]
+- [MDB React Tutorial][web4]
+- [MDB Fancy SVG Shapes Demo App][web10]
+
+### Frontend Mentor Challenges
+
+- [Four Card Feature Section][web13]
+- [Base Apparel Coming Soon Page][web14]
+- [Intro Component with Signup Form][web15]
+- [QR Code Component][web16]
 
 ## Languages (Proficient and Learning)
 
 <img align="left" alt="bash" title="Bash Scripting" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Python" title="Python 3.x" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Python" title="Django 3.x" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Flask" title="Flask 2.x" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="flask" title="Flask" width="60px" src="./img/flask.png" />
+<!-- <img align="left" alt="Flask" title="Flask 2.x" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /> -->
 <img align="left" alt="HTML5" title="HTML 5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" title="CSS 3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" title="Dart SASS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
