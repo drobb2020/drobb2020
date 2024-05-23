@@ -25,11 +25,9 @@
 - 👋 Hi Everyone!
 - 🔭 I’m currently working on a Projects portfolio website as well as a blog site.
 - ⚡ Fun facts:
-  - I have a three year old West Highland White Terrier
+  - I have a six year old West Highland White Terrier
   - her name is Abigail, and she keeps me busy.
-  - 🐶 I have created a portfolio/blog website for her using sanity.io
-  - You can check it out here [➡️](https://abigailportfolio.netlify.app)
-- 😀 You can check out my portfolio website here [➡️][portfolio]
+- 😀 You can check out my portfolio website here [davidrobb2020.tech][portfolio]
 - 🌱 I’m currently learning:
   - JavaScript
   - React
@@ -37,7 +35,7 @@
   - Improving my Flask skills
   - Working with Django
   - I have started to learn HTMX
-- 💬 Ask me about Micro Focus Software (I work for Micro Focus Software
+- 💬 Ask me about OpenText Software (I work for OpenText
 - 😄 Call me Dave
 
 ---
