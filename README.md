@@ -25,9 +25,13 @@
 - 👋 Hi Everyone!
 - 🔭 I’m currently working on a Projects portfolio website as well as a blog site.
 - ⚡ Fun facts:
+<<<<<<< HEAD
   - I have a six year old West Highland White Terrier
   - her name is Abigail, and she keeps me busy.
 - 😀 You can check out my portfolio website here [davidrobb2020.tech][portfolio]
+=======
+  - I have a six year old West Highland White Terrier. Her name is Abigail, and she keeps me busy.
+>>>>>>> 1ecfa57 (Modified About me and removed stale links)
 - 🌱 I’m currently learning:
   - JavaScript
   - React
@@ -35,16 +39,17 @@
   - Improving my Flask skills
   - Working with Django
   - I have started to learn HTMX
+<<<<<<< HEAD
 - 💬 Ask me about OpenText Software (I work for OpenText
+=======
+- 💬 Micro Focus Software has been bought by OpenText!
+>>>>>>> 1ecfa57 (Modified About me and removed stale links)
 - 😄 Call me Dave
 
 ---
 
 ## My Online Websites
 
-- [My Portfolio][portfolio]
-- [Abigail's portfolio][web1]
-- [Flask Blog Tutorial][web2]
 - [Code with Mosh Tutorial][web5]
 - [Next.js Demo App][web7]
 - [My Weather App][web8]
@@ -126,16 +131,9 @@
 
 <!-- Common Links -->
 
-[facebook]: https://www.facebook.com/david.robb.2012
-[linkedin]: https://www.linkedin.com/in/david-robb-42436a20/
-[twitter]: https://twitter.com/DavidRobb2
-[portfolio]: https://davidrobb2021.tech "David Robb portfolio"
-[web1]: https://abigailportfolio.netlify.app/ "Abigail's Portfolio"
-[web2]: https://flaskerdrobb.herokuapp.com/ "Flask Blog Tutorial"
 [web3]: https://davidrobb-bs5-react-page.mdbgo.io/ "MDB React Blog Tutorial"
 [web4]: https://davidrobb-mdb5-free-react.mdbgo.io/ "MDB React Tutorial"
 [web5]: https://relaxed-bell-1f0735.netlify.app/ "Code with Mosh Tutorial"
-[web6]: https://6182ab6e0ac571fe22a0d62a--boring-nobel-8b5363.netlify.app/ "My Notes App"
 [web7]: https://next-js-tutorial-drobb2020.vercel.app/ "Next.js Demo App"
 [web8]: https://root-weather-app-v1.herokuapp.com/ "My Weather App"
 [web9]: https://inspiring-archimedes-b42227.netlify.app/ "My Notion Cards"
