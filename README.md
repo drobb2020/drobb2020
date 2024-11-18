@@ -25,13 +25,7 @@
 - 👋 Hi Everyone!
 - 🔭 I’m currently working on a Projects portfolio website as well as a blog site.
 - ⚡ Fun facts:
-<<<<<<< HEAD
-  - I have a six year old West Highland White Terrier
-  - her name is Abigail, and she keeps me busy.
-- 😀 You can check out my portfolio website here [davidrobb2020.tech][portfolio]
-=======
   - I have a six year old West Highland White Terrier. Her name is Abigail, and she keeps me busy.
->>>>>>> 1ecfa57 (Modified About me and removed stale links)
 - 🌱 I’m currently learning:
   - JavaScript
   - React
@@ -39,11 +33,7 @@
   - Improving my Flask skills
   - Working with Django
   - I have started to learn HTMX
-<<<<<<< HEAD
-- 💬 Ask me about OpenText Software (I work for OpenText
-=======
 - 💬 Micro Focus Software has been bought by OpenText!
->>>>>>> 1ecfa57 (Modified About me and removed stale links)
 - 😄 Call me Dave
 
 ---
